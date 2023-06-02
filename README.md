@@ -1,14 +1,10 @@
-# MSDS434_ModuleThree
-
 ls
 mkdir golangdockertest
 cd golangdockertest/
 
 cat hello.go   #see the file
 
-
-# edit the file (ctrl + Z 2x to leave)
-vi hello.go
+vi hello.go    #edit the file (ctrl + Z 2x to leave)
 vi go.mod
 vi Dockerfile
 
