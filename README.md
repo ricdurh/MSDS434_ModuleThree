@@ -4,8 +4,8 @@ ls
 mkdir golangdockertest
 cd golangdockertest/
 
-# see the file
-cat hello.go
+cat hello.go   #see the file
+
 
 # edit the file (ctrl + Z 2x to leave)
 vi hello.go
